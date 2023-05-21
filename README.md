@@ -25,6 +25,4 @@ N/A
 
 MIT License
 
----
-permalink: /index.html
----
+
